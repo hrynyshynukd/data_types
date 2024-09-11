@@ -6,6 +6,6 @@ let house = {
   renovationDate: undefined,  // Undefined
 
   rooms: ["Living Room", "Kitchen", "Bathroom", "Bedroom"],  // Array
-  }
+  }   // Object
 
 console.log(house);
